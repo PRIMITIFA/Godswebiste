@@ -1,4 +1,9 @@
 # The Light Within
 > A faith-based website dedicated to spiritual reflection, inspiration, and belief in God. Explore devotional content, scripture, and encouragement for your faith journey.
 
-[Homepage](https://thelightwithin.com)
+## Site Info
+- Canonical URL: https://godswebiste.vercel.app/
+- Description: The Light Within is a faith-based website offering devotional content, scripture readings, and spiritual encouragement for those seeking to deepen their belief in God.
+- Topics: faith, spirituality, God, devotionals, scripture, inspiration, Christian encouragement
+
+[Homepage](https://godswebiste.vercel.app/)
