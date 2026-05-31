@@ -5,9 +5,15 @@
 - Canonical URL: https://godswebiste.vercel.app/
 - Description: The Light Within is a faith-based website offering devotional content, scripture readings, and spiritual encouragement for those seeking to deepen their belief in God.
 - Topics: faith, spirituality, God, devotionals, scripture, inspiration, Christian encouragement
+- Content-Type: text/markdown
+- Accept: text/markdown
+
+## Markdown Negotiation
+This site serves content as text/markdown for AI agents. Request with `Accept: text/markdown` to receive Markdown-formatted responses.
 
 ## Pages
 [Homepage](https://godswebiste.vercel.app/)
+[llms.txt](https://godswebiste.vercel.app/llms.txt)
 
 ## Frequently Asked Questions
 - What is The Light Within? — A faith-based website dedicated to spiritual reflection, inspiration, and belief in God, offering devotional content and scripture readings.
@@ -19,3 +25,8 @@
 - FAQPage schema: present
 - WebSite schema: present
 - Speakable schema: present
+
+## Content Signals
+- ai-train: no
+- search: yes
+- ai-input: yes

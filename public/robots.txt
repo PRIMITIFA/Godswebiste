@@ -1,0 +1,8 @@
+# robots.txt for The Light Within
+User-agent: *
+Allow: /
+
+Sitemap: https://godswebiste.vercel.app/sitemap.xml
+
+# Content Signals (contentsignals.org)
+Content-Signal: ai-train=no, search=yes, ai-input=yes
