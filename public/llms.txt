@@ -14,3 +14,8 @@
 - What content does The Light Within offer? — Devotional content, scripture readings, spiritual encouragement, and reflections to inspire and strengthen belief in God.
 - Who is The Light Within for? — Anyone seeking spiritual growth, Christian encouragement, or a deeper connection with God through scripture and devotional reflection.
 - Is The Light Within free? — Yes, all content is freely accessible to visitors seeking faith-based inspiration and encouragement.
+
+## Structured Data
+- FAQPage schema: present
+- WebSite schema: present
+- Speakable schema: present
