@@ -6,4 +6,11 @@
 - Description: The Light Within is a faith-based website offering devotional content, scripture readings, and spiritual encouragement for those seeking to deepen their belief in God.
 - Topics: faith, spirituality, God, devotionals, scripture, inspiration, Christian encouragement
 
+## Pages
 [Homepage](https://godswebiste.vercel.app/)
+
+## Frequently Asked Questions
+- What is The Light Within? — A faith-based website dedicated to spiritual reflection, inspiration, and belief in God, offering devotional content and scripture readings.
+- What content does The Light Within offer? — Devotional content, scripture readings, spiritual encouragement, and reflections to inspire and strengthen belief in God.
+- Who is The Light Within for? — Anyone seeking spiritual growth, Christian encouragement, or a deeper connection with God through scripture and devotional reflection.
+- Is The Light Within free? — Yes, all content is freely accessible to visitors seeking faith-based inspiration and encouragement.
